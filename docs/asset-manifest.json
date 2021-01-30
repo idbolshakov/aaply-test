@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/aaply-test/static/css/main.80bb7542.chunk.css",
+    "main.js": "/aaply-test/static/js/main.9817d26e.chunk.js",
+    "main.js.map": "/aaply-test/static/js/main.9817d26e.chunk.js.map",
+    "runtime-main.js": "/aaply-test/static/js/runtime-main.712287b2.js",
+    "runtime-main.js.map": "/aaply-test/static/js/runtime-main.712287b2.js.map",
+    "static/js/2.b961e0a5.chunk.js": "/aaply-test/static/js/2.b961e0a5.chunk.js",
+    "static/js/2.b961e0a5.chunk.js.map": "/aaply-test/static/js/2.b961e0a5.chunk.js.map",
+    "index.html": "/aaply-test/index.html",
+    "static/css/main.80bb7542.chunk.css.map": "/aaply-test/static/css/main.80bb7542.chunk.css.map",
+    "static/js/2.b961e0a5.chunk.js.LICENSE.txt": "/aaply-test/static/js/2.b961e0a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.712287b2.js",
+    "static/js/2.b961e0a5.chunk.js",
+    "static/css/main.80bb7542.chunk.css",
+    "static/js/main.9817d26e.chunk.js"
+  ]
+}

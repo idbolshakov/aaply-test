@@ -1,0 +1,35 @@
+.inner {
+  display: flex;
+
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+.canvas {
+  width: calc(100% - 400px);
+  background: #ffe6cc;
+}
+
+.toolbar {
+  box-sizing: border-box;
+  width: 400px;
+
+  padding: 20px;
+
+  background: #b3d9ff;
+  border-left: solid 3px #3399ff;
+
+  overflow-y: scroll;
+}
+
+.toolbar::-webkit-scrollbar {
+  width: 4px;
+  background: #b3d9ff;
+}
+
+.toolbar::-webkit-scrollbar-thumb {
+  background-color: #3399ff;
+}

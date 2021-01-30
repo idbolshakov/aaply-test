@@ -1,0 +1,49 @@
+.title {
+  color: #fff;
+  background: black;
+  display: inline-block;
+  padding: 5px;
+
+  margin: 0;
+  padding: 0;
+
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.templates {
+  list-style-type: none;
+
+  margin: 0;
+  padding: 0;
+
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.templates > li {
+  box-sizing: border-box;
+  border: dashed 3px #bbb;
+  padding: 10px;
+  width: 50%;
+
+  opacity: 0.5;
+  transition: opacity 0.2s ease-in;
+
+  cursor: pointer;
+}
+
+.templates > li:hover {
+  opacity: 1;
+}
+
+.templates > li > svg {
+  height: 150px;
+  width: auto;
+}
+
+.templates > li > h3 {
+  display: inline-block;
+  height: 45px;
+  font-size: 20px;
+}
